@@ -1,0 +1,8 @@
+vendor/
+
+core/
+
+modules/contrib
+themes/contrib
+
+profiles/
