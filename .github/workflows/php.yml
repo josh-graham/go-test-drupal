@@ -18,8 +18,8 @@ jobs:
 
     - uses: actions/upload-artifact@v1
       with:
-        name: homework
-        path: core/
+        name: twig
+        path: vendor/twig
 
     # Add a test script to composer.json, for instance: "test": "vendor/bin/phpunit"
     # Docs: https://getcomposer.org/doc/articles/scripts.md
